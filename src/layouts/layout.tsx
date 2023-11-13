@@ -33,7 +33,6 @@ const Layout: React.FC<React.PropsWithChildren> = ({ children }) => {
         </Footer>
       </ThemeContext.Provider>
     </ThemeProvider>
-    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "32855afb072341b2bbc7e6a7e11a2cba"}'></script>
   )
 }
 
