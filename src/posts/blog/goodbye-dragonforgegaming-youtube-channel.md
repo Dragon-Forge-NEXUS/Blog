@@ -7,17 +7,17 @@ thumbnail: "./images/goodbye-youtube-channel/thumbnail.jpg"
 alt: "DragonForgeMedia Banner"
 ---
 
-**What's Happening?**
+##**What's Happening?**
 So, I, Altie, have decided to dissociate the former `DragonForgeGaming` YouTube channel from NEXUS. I have a few reasons for this, which I'll get to later.
 
-**What's Happening to DragonForgeMedia?**
+##**What's Happening to DragonForgeMedia?**
 The channels (YouTube and Twitch) will be removed from the DragonForgeMedia website. DragonForgeMedia is not going anywhere; however, on the first of December, it will be put on a 'coming soon' page.
 
-**What's Happening with the Channel?**
+##**What's Happening with the Channel?**
 It's not going anywhere. As you may or may not have seen, it has been renamed to `Altie122`, and I will continue to post on the channel.
 
-**Why the Separation?**
-Here's a list:
+##**Why the Separation?**
+Here's a list of reasons:
 
 1. **Pressure:** Posting on a channel while keeping up a website and a few other projects 😉, all connected, creates a lot of pressure. I would like to separate them.
   
@@ -25,7 +25,7 @@ Here's a list:
   
 3. **The Name:** The name `DragonForgeGaming` I shortly noticed was very close to another channel on the platform, `Dragon Forge Gaming`, a channel that has been dormant for 9 months. I had not noticed that until well after the rebrand.
 
-**Notes:**
+##**Notes:**
 I will post blog posts for the channel on this website under the category `Altie122`.
 
 The channel will continue to have notifications on all Discord servers under the `FYTS` channel.
@@ -39,3 +39,7 @@ That's it for today/tonight. Have a good day/night, and I will see you in the ne
 αltie
 
 Head Dragon, DragonForgeNEXUS
+
+---
+revised: 
+2023-12-13
