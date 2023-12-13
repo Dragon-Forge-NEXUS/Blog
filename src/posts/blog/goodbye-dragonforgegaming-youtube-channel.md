@@ -26,7 +26,7 @@ Here's a list of reasons:
 3. **The Name:** The name `DragonForgeGaming` I shortly noticed was very close to another channel on the platform, `Dragon Forge Gaming`, a channel that has been dormant for 9 months. I had not noticed that until well after the rebrand.
 
 ## **Notes:**
-I will post blog posts for the channel on this website under the category `Altie122`.
+I will post blog posts for the channel on this website under the category `Altie122`[^1].
 
 The channel will continue to have notifications on all Discord servers under the `FYTS` channel.
 
@@ -41,5 +41,6 @@ That's it for today/tonight. Have a good day/night, and I will see you in the ne
 Head Dragon, DragonForgeNEXUS
 
 ---
+[^1]: until I can get Altie122 it's own domain and website(s)
 revised: 
 2023-12-13
