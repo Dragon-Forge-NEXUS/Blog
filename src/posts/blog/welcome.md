@@ -1,7 +1,7 @@
 ---
 title: "Welcome to DragonForgeNEXUS"
 category: "The NEXUS"
-date: "2023-11-11 17:00:00 -06:00"
+date: "2023-11-11 17:00:00 -07:00"
 desc: "Welcome to the NEXUS"
 thumbnail: "./images/welcome/thumbnail.jpg"
 alt: "DragonForgeNEXUS Banner"
@@ -37,6 +37,6 @@ So, here's to epic adventures, wild ideas, and embracing a bit of chaos because 
 
 Cheers to the madness,
 
-αltie  
+altie  
 Head Dragon, DragonForgeNEXUS
 [^1]: coming ~ 04/11/2024

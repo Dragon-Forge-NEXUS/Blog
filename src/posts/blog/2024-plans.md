@@ -1,7 +1,7 @@
 ---
 title: "DragonForgeNEXUS' 2024 Plans"
 category: "The NEXUS"
-date: "2024-01-05 15:00:00 -06:00"
+date: "2024-01-05 15:00:00 -07:00"
 desc: "DragonForgeNEXUS' 2024 plans and roadmap"
 thumbnail: "./images/2024-plans/thumbnail.jpg"
 alt: "DragonForgeNEXUS Banner"
@@ -54,6 +54,6 @@ DragonForgeGameStudios is, well, a game studio! The first project is going to be
 
 Both new projects will get blog categories on this blog for the moment!
 
-αltie  
+altie  
 Head Dragon, DragonForgeNEXUS
 [^1]: may launch late

@@ -1,7 +1,7 @@
 ---
 title: "Goodbye to the DragonForgeGaming Youtube Channel"
 category: "Media"
-date: "2023-11-29 19:45:00 -06:00"
+date: "2023-11-29 19:45:00 -07:00"
 desc: "Say goodbye to the DragonForgeGaming Youtube Channel"
 thumbnail: "./images/goodbye-youtube-channel/thumbnail.jpg"
 alt: "DragonForgeMedia Banner"
@@ -36,7 +36,7 @@ The channel will also be in the `Fellow YouTuber and Twitch Streamers Program` (
 
 That's it for today/tonight. Have a good day/night, and I will see you in the next post.
 
-αltie
+altie
 
 Head Dragon, DragonForgeNEXUS
 

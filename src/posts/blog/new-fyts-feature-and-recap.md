@@ -1,7 +1,7 @@
 ---
 title: "FYTS Year Recap"
 category: "FYTS"
-date: "2023-12-27 16:30:00 -06:00"
+date: "2023-12-27 16:30:00 -07:00"
 desc: "FYTS Year Recap and New Reward"
 thumbnail: "./images/new-fyts-reward-and-recap/thumbnail.jpg"
 alt: "DragonForgeNEXUS Banner"
@@ -23,5 +23,5 @@ alt: "DragonForgeNEXUS Banner"
 ## *New Reward*
 Recently, a new reward for joining was added. It allows members of FYTS to have websites made for them. So far, only one member has taken up on that – [MiniQle](https://www.youtube.com/@MiniQle). They chose to use it for a blog, which you can see [here](https://miniqle.dragonforgenexus.xyz).
 
-αltie  
+altie  
 Head Dragon, DragonForgeNEXUS
