@@ -7,7 +7,7 @@ thumbnail: "./images/gaming-release-info/thumbnail.jpg"
 alt: "DragonForgeGaming Banner"
 ---
 
-To start, these are just plans, but they may still change. This post will also be long.
+To start, these are just plans, they may still change. This post will also be long.
 
 ## Games
 In the last post, there were a lot of planned games to receive reviews, but that was not a full list. Below is a complete list. (This will be long)
@@ -76,7 +76,7 @@ To start, videos will be hosted on YouTube, and we do hope to switch to [Cloudfl
 ## Release date
 Finally, the release date. As there is a lot of gameplay footage that needs to be recorded, DragonForgeGaming will hopefully launch on Halloween night! This is so that we can get everything set up and hopefully have a better quality launch than DragonForgeNEXUS did.
 
-Altie
+Altie  
 Head Dragon, DragonForgeNEXUS
 [^1]: Age ratings based on [ESRB](https://www.esrb.org)
 [^2]: This information is stored locally (in a cookie) and processed locally; it will not be sent to any servers.
