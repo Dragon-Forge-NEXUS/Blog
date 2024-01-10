@@ -28,18 +28,19 @@ On launch, DragonForgeCode will have the following tutorials:
   * TailwindCSS
 
 ## SpaceDragon
-DragonForgeCode's first major, in-production NPM package is `create-spacedragon`! It is built on the code `create-t3-app` and has been edited for Astro! For more information, please go to [spacedragon.dovahkiin.xyz](https://spacedragon.dovahkiin.xyz).
+DragonForgeCode's first major[^1], in-production NPM package is `create-spacedragon`! It is built on the code `create-t3-app` and has been edited for Astro! For more information, please go to [spacedragon.dovahkiin.xyz](https://spacedragon.dovahkiin.xyz).
 
 ## The Nerd Stuff... Wait, This Whole Thing Is Nerdy
 DragonForgeCode has been using this stack for almost all of our websites:
 * Astro
 * TailwindCSS
-* [Cloudflare Pages™](https://pages.cloudflare.com/)[^1]
+* [Cloudflare Pages™](https://pages.cloudflare.com/)[^2]
 
 It's very simple but gets the job done, and well! This stack is what DragonForgeCode's website will run on. Just add Astro Starlight, and you have the stack for DragonForgeCode's website—very simple but works well. We love using all of the aforementioned services and highly recommend them even though we are not affiliated with them.
 
-This blog is currently the only thing not using Astro; it is still hosted on [Cloudflare Pages™](https://pages.cloudflare.com/)[^1], though.
+This blog is currently the only thing not using Astro; it is still hosted on [Cloudflare Pages™](https://pages.cloudflare.com/)[^2], though.
 
 Altie  
 Head Dragon, DragonForgeNEXUS
-[^1]: We are not affiliated with [Cloudflare®](https://www.cloudflare.com).
+[^1]: This NPM Package is technically mine (Altie), but will be worked on by DragonForgeCode.
+[^2]: We are not affiliated with [Cloudflare®](https://www.cloudflare.com).
