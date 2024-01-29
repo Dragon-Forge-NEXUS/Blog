@@ -42,5 +42,5 @@ This blog is currently the only thing not using Astro; it is still hosted on [Cl
 
 Altie  
 Head Dragon, DragonForgeNEXUS
-[^1]: This NPM Package is technically mine (Altie), but will be worked on by DragonForgeCode.
+[^1]: This NPM Package is open source and technically owned by me (Altie), but will be worked on by DragonForgeCode.
 [^2]: We are not affiliated with [Cloudflare®](https://www.cloudflare.com).
